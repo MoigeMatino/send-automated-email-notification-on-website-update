@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "send-automated-email-notification-on-website-content-update"
+version = "0.1.0"
+description = ""
+authors = ["Agatha Bahati <agatha@marketforce.com>"]
+readme = "README.md"
+packages = [{include = "send_automated_email_notification_on_website_content_update"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
