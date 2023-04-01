@@ -2,7 +2,7 @@
 name = "send-automated-email-notification-on-website-content-update"
 version = "0.1.0"
 description = ""
-authors = ["Agatha Bahati <agatha@marketforce.com>"]
+authors = ["Agatha Bahati"]
 readme = "README.md"
 packages = [{include = "send_automated_email_notification_on_website_content_update"}]
 
